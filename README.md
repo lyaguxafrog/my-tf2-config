@@ -19,7 +19,7 @@
 Right-click on the game in steam -> Properties... -> STEAM CLOUD
 
 ![prep](https://media.discordapp.net/attachments/904075076771651614/904075366514176111/unknown.png)
-![sc](https://media.discordapp.net/attachments/904075076771651614/904091088778821732/stcl.png?width=786&height=559
+![sc](https://media.discordapp.net/attachments/904075076771651614/904091088778821732/stcl.png?width=786&height=559)
 
 ## 3. Restoring TF2 files
 Right-click on the game in steam -> Properties... -> LOCAL FILES -> Backup game files...
@@ -32,17 +32,17 @@ __Place the contents of this repository in:__
 * Windows: ```Steam\steamapps\common\Team Fortress 2\tf\custom```
 
 # Graphics
-## I used a medium-low preset graph from [mastercomfig.tf](https://mastercomfig.tf)
+### I used a medium-low preset graph from [mastercomfig.tf](https://mastercomfig.tf)
 ![gr_prem](https://media.discordapp.net/attachments/904075076771651614/904091084643242034/medium-low.png?width=993&height=559)
 
-## I also have addons:
+### I also have addons:
 * __OpenGL__
 * __Disable Pyroland__
 * __No Soundscapes__
 * __No Tutorial__
 
 # Hud
-## I've been using [HEXHUD](https://github.com/Hypnootize/hexhud) for a long time and I think it's perfect
+### I've been using [HEXHUD](https://github.com/Hypnootize/hexhud) for a long time and I think it's perfect
 __Screenshots:__
 * [Main Menu](https://huds.tf/site/xthreads_attach.php/4201_1624480708_c072b6a4/582b89dcb67895876ac7e2b9ae952b7f/u6OEUT6.jpg)
 * [GameHud](https://huds.tf/site/xthreads_attach.php/4201_1624480708_c072b6a4/582b89dcb67895876ac7e2b9ae952b7f/u6OEUT6.jpg)
@@ -75,7 +75,7 @@ __Screenshots:__
 | I | __Say in the chat:__ [SEXY]  LS|Nori :  принцесса, скажи 'ня' |
 | P | __Say in the chat:__ *DEAD* Pamer: ВСЕ ПИРОМАНЫ ПИДОРАСЫ |
 | J | __Say in the chat:__ *DEAD* Pr1nce55 ♡: РУССКИЕ ПРОТИВ АНИМЕ! |
-| b | __Say in the chat:__ DEAD* The Gnus: Обосрал весь мид шарами блять |
+| b | __Say in the chat:__ *DEAD* The Gnus: Обосрал весь мид шарами блять |
 
 ## Note to binds
 * If you press _W_ and _S_ or _A_ and _B_ at the same time, the character will not stop (it will stop in default configs), it works because of this [script](https://github.com/pr1nce55/my-tf2-config/blob/main/myconf/cfg/strf.cfg)
