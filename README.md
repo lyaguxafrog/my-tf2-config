@@ -89,3 +89,4 @@ __Screenshots:__
 * I also have disabled [corpses](https://github.com/pr1nce55/my-tf2-config/tree/main/myconf/cfg)
 * The general settings can be found in [opt.cfg](https://github.com/pr1nce55/my-tf2-config/blob/main/myconf/cfg/opt.cfg) and [net.cfg](https://github.com/pr1nce55/my-tf2-config/blob/main/myconf/cfg/net.cfg)
 * You can run the [tr_walkway_rc2](https://steamcommunity.com/sharedfiles/filedetails/?id=606778917) training map, to do this, write "trainmap" in the console
+* For a [medic](https://github.com/pr1nce55/my-tf2-config/blob/main/myconf/cfg/user/medic.cfg), [soldier](https://github.com/pr1nce55/my-tf2-config/blob/main/myconf/cfg/user/soldier.cfg), [pyro](https://github.com/pr1nce55/my-tf2-config/blob/main/myconf/cfg/user/pyro.cfg) and [spy](https://github.com/pr1nce55/my-tf2-config/blob/main/myconf/cfg/user/spy.cfg), the main model of the main weapon is disabled
